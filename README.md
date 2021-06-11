@@ -1,2 +1,2 @@
 # holbertonschool-zero_day
-I'm now a Holberton Student, this is my first repository as a full-stack  maher engineer
+I'm now a Holberton Student, this is my first repository as a full-stack  m engineer
